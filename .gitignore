@@ -76,3 +76,4 @@ hs_err_pid*
 
 # .docx
 *.docx
+/WebApplication1/nbproject/private/
