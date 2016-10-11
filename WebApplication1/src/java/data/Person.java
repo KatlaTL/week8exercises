@@ -13,7 +13,7 @@ public class Person {
     
     @Override
     public String toString(){
-        String s = "";
+        String s = "test2";
         return s;
     }
 }
