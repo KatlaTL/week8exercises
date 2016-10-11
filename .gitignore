@@ -75,4 +75,4 @@ $RECYCLE.BIN/
 hs_err_pid*
 
 # .docx
-~$*.doc*
+*.docx
